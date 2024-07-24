@@ -3,7 +3,7 @@ body{
   font-family: 'Poppins', sans-serif !important;}
 .topnav {
   /* overflow: hidden; */
-<<<<<<< HEAD
+
 
   line-height: 52px;
 
@@ -24,7 +24,13 @@ body{
   
 }
 .brand>.BrandName{
+<<<<<<< HEAD
   color: rgb(200 400 200);
+=======
+
+  color: rgb(200 200 200);
+
+>>>>>>> 470c8ef (et)
   font-size: large;
   font-weight: 400;
 }
