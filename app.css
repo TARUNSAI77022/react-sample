@@ -2,18 +2,17 @@
 body{
   font-family: 'Poppins', sans-serif !important;}
 .topnav {
+
   /* overflow: hidden; */
 
 
 
 
-  line-height: 52px;
+  line-height: 92px;
   background-color: white;
   border: 0px solid;
-
-  background-color: rgb(500, 400, 600);
-
-  border-radius: 80px;
+  background-color: rgb(600, 800, 200);
+  border-radius: 70px;
 
   position: relative;
   top: 3rem;
@@ -27,6 +26,7 @@ body{
   flex-wrap: wrap; */
   
 }
+<<<<<<< HEAD
 
 .brand>.BrandName
 
@@ -36,6 +36,16 @@ body{
 
 
   font-weight: 400;
+=======
+.brand>.BrandName{
+
+
+  color: rgb(200 200 200);
+
+  font-size: large;
+
+  font-weight: 500;
+>>>>>>> c2cc7933ccb44acc0f6b948492aca72e817c0d78
 
 }
 
@@ -45,12 +55,17 @@ body{
   color: #111111;
   text-align: center;
 
+
+
   padding: 4px 16px;
   text-decoration: none;
   font-size: 152px;
   font-weight: 00;
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c2cc7933ccb44acc0f6b948492aca72e817c0d78
 }
 
 .topnav a:hover {
