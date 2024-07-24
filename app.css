@@ -42,9 +42,7 @@ body{
 
   color: rgb(17, 17, 17);
 
-}
-
-.topnav a.active {
+opnav a.active {
   background-color: #04AA6D;
   color: white;
 }
