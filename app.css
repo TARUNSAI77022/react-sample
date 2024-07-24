@@ -25,7 +25,10 @@ body{
   flex-wrap: wrap; */
   
 }
+
 .brand>.BrandName
+
+  color: rgb(500 500 500);
 
   font-size: large;
 
