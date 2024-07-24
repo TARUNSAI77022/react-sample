@@ -9,6 +9,9 @@ function myFunction {
     var x = document.getElementById("Topnav");
     if (x.className === "mytopnav") {
       x.className += " responsives";
+
+
+
     } else {
       x.className = "mytopnav";
 
