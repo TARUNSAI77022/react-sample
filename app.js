@@ -1,11 +1,7 @@
 
-
-function myFunction {
-
-
-    var x = document.getElementById("mysTopnav");
-    if (x.className === "topnavs") {
-
+function myFunctio n( ) {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
 
       x.className += " responsive";
     } else {
