@@ -1,9 +1,17 @@
+
+
+
+
 function myFunction {
-    var x = document.getElementById("mysTopnav");
-    if (x.className === "topnavs") {
-      x.className += " responsive";
+
+
+
+    var x = document.getElementById("Topnav");
+    if (x.className === "mytopnav") {
+      x.className += " responsives";
     } else {
-      x.className = "topnavs";
+      x.className = "mytopnav";
+
     }
   }
 
