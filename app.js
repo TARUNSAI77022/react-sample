@@ -5,11 +5,11 @@ function myFunction {
 
 
 
-    var x = document.getElementById("myTopnav");
-    if (x.className === "topnav") {
-      x.className += " responsive";
+    var x = document.getElementById("Topnav");
+    if (x.className === "mytopnav") {
+      x.className += " responsives";
     } else {
-      x.className = "topnav";
+      x.className = "mytopnav";
     }
   }
 
