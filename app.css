@@ -2,7 +2,9 @@
 body{
   font-family: 'Poppins', sans-serif !important;}
 .topnav {
+
   /* overflow: hidden; */
+
 
 
   line-height: 92px;
@@ -24,11 +26,13 @@ body{
 }
 .brand>.BrandName{
 
+
   color: rgb(200 200 200);
 
   font-size: large;
 
   font-weight: 500;
+
 }
 
 .topnav a {
@@ -36,6 +40,7 @@ body{
   display: block;
   color: #111111;
   text-align: center;
+
 
 
   padding: 4px 16px;
