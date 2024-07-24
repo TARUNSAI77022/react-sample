@@ -26,7 +26,7 @@ body{
   flex-wrap: wrap; */
   
 }
-<<<<<<< HEAD
+
 
 .brand>.BrandName
 
@@ -36,16 +36,6 @@ body{
 
 
   font-weight: 400;
-=======
-.brand>.BrandName{
-
-
-  color: rgb(200 200 200);
-
-  font-size: large;
-
-  font-weight: 500;
->>>>>>> c2cc7933ccb44acc0f6b948492aca72e817c0d78
 
 }
 
@@ -62,11 +52,7 @@ body{
   font-size: 152px;
   font-weight: 00;
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c2cc7933ccb44acc0f6b948492aca72e817c0d78
-}
 
 .topnav a:hover {
   /* background-color: #ddd; */
