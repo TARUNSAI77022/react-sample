@@ -23,16 +23,13 @@ body{
   flex-wrap: wrap; */
   
 }
-.brand>.BrandName{
-<<<<<<< HEAD
-  color: rgb(200 400 200);
-=======
+.brand>.BrandName
 
-  color: rgb(200 200 200);
-
->>>>>>> 470c8ef (et)
   font-size: large;
+
   font-weight: 400;
+
+  font-weight: 500;
 }
 
 .topnav a {
